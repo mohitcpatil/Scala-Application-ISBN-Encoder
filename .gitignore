@@ -1,0 +1,6 @@
+*.log
+target/
+
+# Spark
+spark-warehouse/
+
