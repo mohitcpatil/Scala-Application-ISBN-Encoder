@@ -1,6 +1,6 @@
-# Coding tasks for data engineers
+# Scala Application ISBN Encoder
 
-Hello and welcome to the coding tasks for data engineers! The exercise covers [Apache Spark](http://spark.apache.org/docs/2.1.0/programming-guide.html), [Dataframes](http://spark.apache.org/docs/latest/sql-programming-guide.html) and Scala/Java. We hope you will enjoy it!
+This Application covers [Apache Spark](http://spark.apache.org/docs/2.1.0/programming-guide.html), [Dataframes](http://spark.apache.org/docs/latest/sql-programming-guide.html) and Scala/Java.
 
 ### Tasks
 
@@ -14,9 +14,6 @@ The goals of the tasks are to pass all tests and implement it in a way that it p
 
 ### Comment
 
-You're not familiar with Scala, this is no problem. Just implement it in Java and replace the [Implicit Class](http://docs.scala-lang.org/overviews/core/implicit-classes.html) with an instance of your Java class.
+It can also be implemented with Java by replacing the [Implicit Class](http://docs.scala-lang.org/overviews/core/implicit-classes.html) with an instance of your Java class.
 
-### Feedback/Questions
-
-Please contact `sascha.vetter@us.bosch.com` for feedback and questions.
 
