@@ -6,11 +6,10 @@ This Application covers [Apache Spark](http://spark.apache.org/docs/2.1.0/progra
 
 The goals of the tasks are to pass all tests and implement it in a way that it performs very well for big data. The steps in detail:
 
-1. Fork the project and create a new branch for your implementation
-2. Implement the function, according to documentation and tests
-3. Build the module and pass all tests
-4. Update the chapter "Describe your solution" in the README files
-5. Create a pull request
+1. Implement the function, according to documentation and tests
+2. Build the module and pass all tests
+3. Update the chapter "Describe your solution" in the README files
+4. Create a pull request
 
 ### Comment
 
