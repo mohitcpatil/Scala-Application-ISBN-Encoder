@@ -2,7 +2,7 @@
 
 The function should check if the content in column _isbn_ is a [valid 13-digit isbn code](https://en.wikipedia.org/wiki/International_Standard_Book_Number) and create new rows for each part of the ISBN code.
 
-#### Describe your solution
+#### Solution
 
 ISBN Encoder program is built using the Spark Dataframe API which offers high-level domain-specific operations, saves space, and executes at high speed. Hence it is better to use than RDD. In Dataframe, data is organized into named columns. Ex. table in a relational database. It is an immutable distributed collection of data allowing higher-level abstraction. 
 
