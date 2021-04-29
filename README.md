@@ -8,8 +8,7 @@ The goals of the tasks are to pass all tests and implement it in a way that it p
 
 1. Implement the function, according to documentation and tests
 2. Build the module and pass all tests
-3. Update the chapter "Describe your solution" in the README files
-4. Create a pull request
+3. Solution in README file
 
 ### Comment
 
