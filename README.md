@@ -1,6 +1,6 @@
 # Scala Application ISBN Encoder
 
-This Application covers [Apache Spark](http://spark.apache.org/docs/2.1.0/programming-guide.html), [Dataframes](http://spark.apache.org/docs/latest/sql-programming-guide.html) and Scala/Java.
+This Application covers [Apache Spark](http://spark.apache.org/docs/2.1.0/programming-guide.html), [Dataframes](http://spark.apache.org/docs/latest/sql-programming-guide.html) and Scala/Java
 
 ### Tasks
 
